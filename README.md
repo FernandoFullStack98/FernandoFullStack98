@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/FernandoFullStack98/FernandoFullStack98/blob/main/banner.png" alt="Banner de Fernando" />
-</p>
-
 <h1 align="center">Hola 👋, soy Fernando</h1>
 
 <p align="center"><i>💡 En constante aprendizaje</i></p>
@@ -50,7 +46,7 @@ Soy un desarrollador en formación con enfoque en **Desarrollo Full Stack**. Me 
 
 ### 📫 Contacto
 
-- 💼 [LinkedIn]  https://www.linkedin.com/in/fernando-nu%C3%B1ez-palop-ab0088111/
+- 💼 [LinkedIn](https://www.linkedin.com) *(https://www.linkedin.com/in/fernando-nu%C3%B1ez-palop-ab0088111/)*
 - 📬 Puedes dejarme un mensaje aquí en GitHub
 
 ---
