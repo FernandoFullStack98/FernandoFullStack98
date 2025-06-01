@@ -1,4 +1,3 @@
-<!-- Banner personalizado -->
 <p align="center">
   <img src="https://github.com/FernandoFullStack98/FernandoFullStack98/blob/main/banner.png" alt="Banner de Fernando" />
 </p>
