@@ -46,7 +46,7 @@ Soy un desarrollador en formación con enfoque en **Desarrollo Full Stack**. Me 
 
 ### 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com) *(https://www.linkedin.com/in/fernando-nu%C3%B1ez-palop-ab0088111/)*
+- [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)]([https://www.linkedin.com/in/fernando-nu%C3%B1ez-palop-ab0088111/]
 - 📬 Puedes dejarme un mensaje aquí en GitHub
 
 ---
